@@ -1,7 +1,9 @@
 # LengaburuTraffic
-This is solution to Geek Trust backend challenge.
+This is solution to Geek Trust backend challenge. the Challenge consists of two problems the solution i have commited is for the second problem which can be downgraded to get the solution for first problem. 
 
-## I have used the concepts of OOPS to build the solution and I earened 3 badges
+# Read the PDF for the problem statement
+
+## I have used the concepts of OOPS to build the solution and I earned 3 badges
 -Logic
 -Extensible
 -Correctness
